@@ -7,12 +7,15 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://github.com/nagapavandev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/nagapavandev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
+
 <a href="https://github.com/nagapavandev/github-stats#gh-light-mode-only">
 <img src="https://github.com/nagapavandev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
 <img src="https://github.com/nagapavandev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
--->
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nagapavandev&theme=transparent"/></a>
+
+-->
 </div>
 
 <!--
